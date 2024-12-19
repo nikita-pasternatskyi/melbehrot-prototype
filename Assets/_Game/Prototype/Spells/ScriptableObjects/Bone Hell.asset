@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 733bdd590fa223a4082846ef95f533c6, type: 3}
+  m_Name: Bone Hell
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Recipe:
+  - {fileID: 11400000, guid: bd0d992747fe406479933681903db857, type: 2}
+  - {fileID: 11400000, guid: 22b5cc1fd8eb24c4393abe3cba89c058, type: 2}
+  - {fileID: 11400000, guid: 948cc7d9af4854243b491fa89be11f0f, type: 2}
+  - {fileID: 11400000, guid: 65b5f4b4a812af64ca5365c149e1d695, type: 2}
+  Preview: {fileID: 21300000, guid: e600b90ad40b15f4386bf18e9dcee3bc, type: 3}
+  Description: Bones from the ground shall pierce all your enemies
+  Cooldown: 2.5
+  CastTime: 1
+  UseBlood: 0
+  CostType: 0
+  InstantCost: 9
+  DrainRatePerSecond: 0
+  ReservationCost: 0

@@ -1,0 +1,1244 @@
+fileFormatVersion: 2
+guid: f0156c4f0fabdb84aa6f3a25e6b870d7
+timeCreated: 1527623772
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Calf_L
+    100002: Calf_R
+    100004: Chest
+    100006: Clavicle_L
+    100008: Clavicle_R
+    100010: Finger1_1_L
+    100012: Finger1_1_R
+    100014: Finger1_2_L
+    100016: Finger1_2_R
+    100018: Finger1_3_L
+    100020: Finger1_3_R
+    100022: Finger2_1_L
+    100024: Finger2_1_R
+    100026: Finger2_2_L
+    100028: Finger2_2_R
+    100030: Finger2_3_L
+    100032: Finger2_3_R
+    100034: Finger3_1_L
+    100036: Finger3_1_R
+    100038: Finger3_2_L
+    100040: Finger3_2_R
+    100042: Finger3_3_L
+    100044: Finger3_3_R
+    100046: Finger4_1_L
+    100048: Finger4_1_R
+    100050: Finger4_2_L
+    100052: Finger4_2_R
+    100054: Finger4_3_L
+    100056: Finger4_3_R
+    100058: Finger5_1_L
+    100060: Finger5_1_R
+    100062: Finger5_2_L
+    100064: Finger5_2_R
+    100066: Finger5_3_L
+    100068: Finger5_3_R
+    100070: Foot_L
+    100072: Foot_R
+    100074: Forearm_L
+    100076: Forearm_R
+    100078: Hand_L
+    100080: Hand_R
+    100082: Head
+    100084: Jaw
+    100086: Neck
+    100088: Patella_L
+    100090: Patella_R
+    100092: Pelvis
+    100094: Radius_L
+    100096: Radius_R
+    100098: Root
+    100100: Scapula_L
+    100102: Scapula_R
+    100104: ScapulaTarget_L
+    100106: ScapulaTarget_R
+    100108: SkeletonRig
+    100110: SkeletonSoldier_LOD0
+    100112: SkeletonSoldier_LOD1
+    100114: SkeletonSoldier_LOD2
+    100116: SkeletonSoldier_LOD3
+    100118: //RootNode
+    100120: SkeletonSoldierArmor_ArmorPart_LOD0
+    100122: SkeletonSoldierArmor_ArmorPart_LOD1
+    100124: SkeletonSoldierArmor_ArmorPart_LOD2
+    100126: SkeletonSoldierArmor_ArmorPart_LOD3
+    100128: SkeletonSoldierArmor_BeltPart_LOD0
+    100130: SkeletonSoldierArmor_BeltPart_LOD1
+    100132: SkeletonSoldierArmor_BeltPart_LOD2
+    100134: SkeletonSoldierArmor_BeltPart_LOD3
+    100136: SkeletonSoldierArmor_BootLPart_LOD0
+    100138: SkeletonSoldierArmor_BootLPart_LOD1
+    100140: SkeletonSoldierArmor_BootLPart_LOD2
+    100142: SkeletonSoldierArmor_BootLPart_LOD3
+    100144: SkeletonSoldierArmor_BootRPart_LOD0
+    100146: SkeletonSoldierArmor_BootRPart_LOD1
+    100148: SkeletonSoldierArmor_BootRPart_LOD2
+    100150: SkeletonSoldierArmor_BootRPart_LOD3
+    100152: SkeletonSoldierArmor_GloveLPart_LOD0
+    100154: SkeletonSoldierArmor_GloveLPart_LOD1
+    100156: SkeletonSoldierArmor_GloveLPart_LOD2
+    100158: SkeletonSoldierArmor_GloveLPart_LOD3
+    100160: SkeletonSoldierArmor_GloveRPart_LOD0
+    100162: SkeletonSoldierArmor_GloveRPart_LOD1
+    100164: SkeletonSoldierArmor_GloveRPart_LOD2
+    100166: SkeletonSoldierArmor_GloveRPart_LOD3
+    100168: SkeletonSoldierArmor_PantsPart_LOD0
+    100170: SkeletonSoldierArmor_PantsPart_LOD1
+    100172: SkeletonSoldierArmor_PantsPart_LOD2
+    100174: SkeletonSoldierArmor_PantsPart_LOD3
+    100176: Spine01
+    100178: Spine02
+    100180: Thigh_L
+    100182: Thigh_R
+    100184: Toe_L
+    100186: Toe_R
+    100188: UpperArm_L
+    100190: UpperArm_R
+    100192: SkeletonWarrior_LOD0
+    100194: SkeletonWarrior_LOD1
+    100196: SkeletonWarrior_LOD2
+    100198: SkeletonWarrior_LOD3
+    100200: SkeletonWarriorArmor_ArmorPart_LOD0
+    100202: SkeletonWarriorArmor_ArmorPart_LOD1
+    100204: SkeletonWarriorArmor_ArmorPart_LOD2
+    100206: SkeletonWarriorArmor_ArmorPart_LOD3
+    100208: SkeletonWarriorArmor_BeltPart_LOD0
+    100210: SkeletonWarriorArmor_BeltPart_LOD1
+    100212: SkeletonWarriorArmor_BeltPart_LOD2
+    100214: SkeletonWarriorArmor_BeltPart_LOD3
+    100216: SkeletonWarriorArmor_BootLPart_LOD0
+    100218: SkeletonWarriorArmor_BootLPart_LOD1
+    100220: SkeletonWarriorArmor_BootLPart_LOD2
+    100222: SkeletonWarriorArmor_BootLPart_LOD3
+    100224: SkeletonWarriorArmor_BootRPart_LOD0
+    100226: SkeletonWarriorArmor_BootRPart_LOD1
+    100228: SkeletonWarriorArmor_BootRPart_LOD2
+    100230: SkeletonWarriorArmor_BootRPart_LOD3
+    100232: SkeletonWarriorArmor_GloveLPart_LOD0
+    100234: SkeletonWarriorArmor_GloveLPart_LOD1
+    100236: SkeletonWarriorArmor_GloveLPart_LOD2
+    100238: SkeletonWarriorArmor_GloveLPart_LOD3
+    100240: SkeletonWarriorArmor_GloveRPart_LOD0
+    100242: SkeletonWarriorArmor_GloveRPart_LOD1
+    100244: SkeletonWarriorArmor_GloveRPart_LOD2
+    100246: SkeletonWarriorArmor_GloveRPart_LOD3
+    100248: SkeletonWarriorArmor_PantsPart_LOD0
+    100250: SkeletonWarriorArmor_PantsPart_LOD1
+    100252: SkeletonWarriorArmor_PantsPart_LOD2
+    100254: SkeletonWarriorArmor_PantsPart_LOD3
+    400000: Calf_L
+    400002: Calf_R
+    400004: Chest
+    400006: Clavicle_L
+    400008: Clavicle_R
+    400010: Finger1_1_L
+    400012: Finger1_1_R
+    400014: Finger1_2_L
+    400016: Finger1_2_R
+    400018: Finger1_3_L
+    400020: Finger1_3_R
+    400022: Finger2_1_L
+    400024: Finger2_1_R
+    400026: Finger2_2_L
+    400028: Finger2_2_R
+    400030: Finger2_3_L
+    400032: Finger2_3_R
+    400034: Finger3_1_L
+    400036: Finger3_1_R
+    400038: Finger3_2_L
+    400040: Finger3_2_R
+    400042: Finger3_3_L
+    400044: Finger3_3_R
+    400046: Finger4_1_L
+    400048: Finger4_1_R
+    400050: Finger4_2_L
+    400052: Finger4_2_R
+    400054: Finger4_3_L
+    400056: Finger4_3_R
+    400058: Finger5_1_L
+    400060: Finger5_1_R
+    400062: Finger5_2_L
+    400064: Finger5_2_R
+    400066: Finger5_3_L
+    400068: Finger5_3_R
+    400070: Foot_L
+    400072: Foot_R
+    400074: Forearm_L
+    400076: Forearm_R
+    400078: Hand_L
+    400080: Hand_R
+    400082: Head
+    400084: Jaw
+    400086: Neck
+    400088: Patella_L
+    400090: Patella_R
+    400092: Pelvis
+    400094: Radius_L
+    400096: Radius_R
+    400098: Root
+    400100: Scapula_L
+    400102: Scapula_R
+    400104: ScapulaTarget_L
+    400106: ScapulaTarget_R
+    400108: SkeletonRig
+    400110: SkeletonSoldier_LOD0
+    400112: SkeletonSoldier_LOD1
+    400114: SkeletonSoldier_LOD2
+    400116: SkeletonSoldier_LOD3
+    400118: //RootNode
+    400120: SkeletonSoldierArmor_ArmorPart_LOD0
+    400122: SkeletonSoldierArmor_ArmorPart_LOD1
+    400124: SkeletonSoldierArmor_ArmorPart_LOD2
+    400126: SkeletonSoldierArmor_ArmorPart_LOD3
+    400128: SkeletonSoldierArmor_BeltPart_LOD0
+    400130: SkeletonSoldierArmor_BeltPart_LOD1
+    400132: SkeletonSoldierArmor_BeltPart_LOD2
+    400134: SkeletonSoldierArmor_BeltPart_LOD3
+    400136: SkeletonSoldierArmor_BootLPart_LOD0
+    400138: SkeletonSoldierArmor_BootLPart_LOD1
+    400140: SkeletonSoldierArmor_BootLPart_LOD2
+    400142: SkeletonSoldierArmor_BootLPart_LOD3
+    400144: SkeletonSoldierArmor_BootRPart_LOD0
+    400146: SkeletonSoldierArmor_BootRPart_LOD1
+    400148: SkeletonSoldierArmor_BootRPart_LOD2
+    400150: SkeletonSoldierArmor_BootRPart_LOD3
+    400152: SkeletonSoldierArmor_GloveLPart_LOD0
+    400154: SkeletonSoldierArmor_GloveLPart_LOD1
+    400156: SkeletonSoldierArmor_GloveLPart_LOD2
+    400158: SkeletonSoldierArmor_GloveLPart_LOD3
+    400160: SkeletonSoldierArmor_GloveRPart_LOD0
+    400162: SkeletonSoldierArmor_GloveRPart_LOD1
+    400164: SkeletonSoldierArmor_GloveRPart_LOD2
+    400166: SkeletonSoldierArmor_GloveRPart_LOD3
+    400168: SkeletonSoldierArmor_PantsPart_LOD0
+    400170: SkeletonSoldierArmor_PantsPart_LOD1
+    400172: SkeletonSoldierArmor_PantsPart_LOD2
+    400174: SkeletonSoldierArmor_PantsPart_LOD3
+    400176: Spine01
+    400178: Spine02
+    400180: Thigh_L
+    400182: Thigh_R
+    400184: Toe_L
+    400186: Toe_R
+    400188: UpperArm_L
+    400190: UpperArm_R
+    400192: SkeletonWarrior_LOD0
+    400194: SkeletonWarrior_LOD1
+    400196: SkeletonWarrior_LOD2
+    400198: SkeletonWarrior_LOD3
+    400200: SkeletonWarriorArmor_ArmorPart_LOD0
+    400202: SkeletonWarriorArmor_ArmorPart_LOD1
+    400204: SkeletonWarriorArmor_ArmorPart_LOD2
+    400206: SkeletonWarriorArmor_ArmorPart_LOD3
+    400208: SkeletonWarriorArmor_BeltPart_LOD0
+    400210: SkeletonWarriorArmor_BeltPart_LOD1
+    400212: SkeletonWarriorArmor_BeltPart_LOD2
+    400214: SkeletonWarriorArmor_BeltPart_LOD3
+    400216: SkeletonWarriorArmor_BootLPart_LOD0
+    400218: SkeletonWarriorArmor_BootLPart_LOD1
+    400220: SkeletonWarriorArmor_BootLPart_LOD2
+    400222: SkeletonWarriorArmor_BootLPart_LOD3
+    400224: SkeletonWarriorArmor_BootRPart_LOD0
+    400226: SkeletonWarriorArmor_BootRPart_LOD1
+    400228: SkeletonWarriorArmor_BootRPart_LOD2
+    400230: SkeletonWarriorArmor_BootRPart_LOD3
+    400232: SkeletonWarriorArmor_GloveLPart_LOD0
+    400234: SkeletonWarriorArmor_GloveLPart_LOD1
+    400236: SkeletonWarriorArmor_GloveLPart_LOD2
+    400238: SkeletonWarriorArmor_GloveLPart_LOD3
+    400240: SkeletonWarriorArmor_GloveRPart_LOD0
+    400242: SkeletonWarriorArmor_GloveRPart_LOD1
+    400244: SkeletonWarriorArmor_GloveRPart_LOD2
+    400246: SkeletonWarriorArmor_GloveRPart_LOD3
+    400248: SkeletonWarriorArmor_PantsPart_LOD0
+    400250: SkeletonWarriorArmor_PantsPart_LOD1
+    400252: SkeletonWarriorArmor_PantsPart_LOD2
+    400254: SkeletonWarriorArmor_PantsPart_LOD3
+    4300000: SkeletonSoldierArmor_BootRPart_LOD3
+    4300002: SkeletonSoldierArmor_BootLPart_LOD3
+    4300004: SkeletonSoldierArmor_PantsPart_LOD3
+    4300006: SkeletonSoldierArmor_GloveRPart_LOD3
+    4300008: SkeletonSoldierArmor_GloveLPart_LOD3
+    4300010: SkeletonSoldierArmor_ArmorPart_LOD3
+    4300012: SkeletonSoldierArmor_BeltPart_LOD3
+    4300014: SkeletonSoldierArmor_BootRPart_LOD2
+    4300016: SkeletonSoldierArmor_BootLPart_LOD2
+    4300018: SkeletonSoldierArmor_GloveRPart_LOD2
+    4300020: SkeletonSoldierArmor_GloveLPart_LOD2
+    4300022: SkeletonSoldierArmor_PantsPart_LOD2
+    4300024: SkeletonSoldierArmor_ArmorPart_LOD2
+    4300026: SkeletonSoldierArmor_BeltPart_LOD2
+    4300028: SkeletonSoldierArmor_ArmorPart_LOD1
+    4300030: SkeletonSoldierArmor_PantsPart_LOD1
+    4300032: SkeletonSoldierArmor_BootRPart_LOD1
+    4300034: SkeletonSoldierArmor_BootLPart_LOD1
+    4300036: SkeletonSoldierArmor_GloveRPart_LOD1
+    4300038: SkeletonSoldierArmor_GloveLPart_LOD1
+    4300040: SkeletonSoldierArmor_BeltPart_LOD1
+    4300042: SkeletonSoldierArmor_BeltPart_LOD0
+    4300044: SkeletonSoldierArmor_BootRPart_LOD0
+    4300046: SkeletonSoldierArmor_BootLPart_LOD0
+    4300048: SkeletonSoldierArmor_GloveRPart_LOD0
+    4300050: SkeletonSoldierArmor_GloveLPart_LOD0
+    4300052: SkeletonSoldierArmor_ArmorPart_LOD0
+    4300054: SkeletonSoldierArmor_PantsPart_LOD0
+    4300056: SkeletonSoldier_LOD3
+    4300058: SkeletonSoldier_LOD2
+    4300060: SkeletonSoldier_LOD1
+    4300062: SkeletonSoldier_LOD0
+    4300064: SkeletonWarriorArmor_BootRPart_LOD3
+    4300066: SkeletonWarriorArmor_BootLPart_LOD3
+    4300068: SkeletonWarriorArmor_PantsPart_LOD3
+    4300070: SkeletonWarriorArmor_GloveRPart_LOD3
+    4300072: SkeletonWarriorArmor_GloveLPart_LOD3
+    4300074: SkeletonWarriorArmor_ArmorPart_LOD3
+    4300076: SkeletonWarriorArmor_BeltPart_LOD3
+    4300078: SkeletonWarriorArmor_BootRPart_LOD2
+    4300080: SkeletonWarriorArmor_BootLPart_LOD2
+    4300082: SkeletonWarriorArmor_GloveRPart_LOD2
+    4300084: SkeletonWarriorArmor_GloveLPart_LOD2
+    4300086: SkeletonWarriorArmor_PantsPart_LOD2
+    4300088: SkeletonWarriorArmor_ArmorPart_LOD2
+    4300090: SkeletonWarriorArmor_BeltPart_LOD2
+    4300092: SkeletonWarriorArmor_ArmorPart_LOD1
+    4300094: SkeletonWarriorArmor_PantsPart_LOD1
+    4300096: SkeletonWarriorArmor_BootRPart_LOD1
+    4300098: SkeletonWarriorArmor_BootLPart_LOD1
+    4300100: SkeletonWarriorArmor_GloveRPart_LOD1
+    4300102: SkeletonWarriorArmor_GloveLPart_LOD1
+    4300104: SkeletonWarriorArmor_BeltPart_LOD1
+    4300106: SkeletonWarriorArmor_BeltPart_LOD0
+    4300108: SkeletonWarriorArmor_BootRPart_LOD0
+    4300110: SkeletonWarriorArmor_BootLPart_LOD0
+    4300112: SkeletonWarriorArmor_GloveRPart_LOD0
+    4300114: SkeletonWarriorArmor_GloveLPart_LOD0
+    4300116: SkeletonWarriorArmor_ArmorPart_LOD0
+    4300118: SkeletonWarriorArmor_PantsPart_LOD0
+    4300120: SkeletonWarrior_LOD3
+    4300122: SkeletonWarrior_LOD2
+    4300124: SkeletonWarrior_LOD1
+    4300126: SkeletonWarrior_LOD0
+    9500000: //RootNode
+    13700000: SkeletonSoldier_LOD0
+    13700002: SkeletonSoldier_LOD1
+    13700004: SkeletonSoldier_LOD2
+    13700006: SkeletonSoldier_LOD3
+    13700008: SkeletonSoldierArmor_ArmorPart_LOD0
+    13700010: SkeletonSoldierArmor_ArmorPart_LOD1
+    13700012: SkeletonSoldierArmor_ArmorPart_LOD2
+    13700014: SkeletonSoldierArmor_ArmorPart_LOD3
+    13700016: SkeletonSoldierArmor_BeltPart_LOD0
+    13700018: SkeletonSoldierArmor_BeltPart_LOD1
+    13700020: SkeletonSoldierArmor_BeltPart_LOD2
+    13700022: SkeletonSoldierArmor_BeltPart_LOD3
+    13700024: SkeletonSoldierArmor_BootLPart_LOD0
+    13700026: SkeletonSoldierArmor_BootLPart_LOD1
+    13700028: SkeletonSoldierArmor_BootLPart_LOD2
+    13700030: SkeletonSoldierArmor_BootLPart_LOD3
+    13700032: SkeletonSoldierArmor_BootRPart_LOD0
+    13700034: SkeletonSoldierArmor_BootRPart_LOD1
+    13700036: SkeletonSoldierArmor_BootRPart_LOD2
+    13700038: SkeletonSoldierArmor_BootRPart_LOD3
+    13700040: SkeletonSoldierArmor_GloveLPart_LOD0
+    13700042: SkeletonSoldierArmor_GloveLPart_LOD1
+    13700044: SkeletonSoldierArmor_GloveLPart_LOD2
+    13700046: SkeletonSoldierArmor_GloveLPart_LOD3
+    13700048: SkeletonSoldierArmor_GloveRPart_LOD0
+    13700050: SkeletonSoldierArmor_GloveRPart_LOD1
+    13700052: SkeletonSoldierArmor_GloveRPart_LOD2
+    13700054: SkeletonSoldierArmor_GloveRPart_LOD3
+    13700056: SkeletonSoldierArmor_PantsPart_LOD0
+    13700058: SkeletonSoldierArmor_PantsPart_LOD1
+    13700060: SkeletonSoldierArmor_PantsPart_LOD2
+    13700062: SkeletonSoldierArmor_PantsPart_LOD3
+    13700064: SkeletonWarrior_LOD0
+    13700066: SkeletonWarrior_LOD1
+    13700068: SkeletonWarrior_LOD2
+    13700070: SkeletonWarrior_LOD3
+    13700072: SkeletonWarriorArmor_ArmorPart_LOD0
+    13700074: SkeletonWarriorArmor_ArmorPart_LOD1
+    13700076: SkeletonWarriorArmor_ArmorPart_LOD2
+    13700078: SkeletonWarriorArmor_ArmorPart_LOD3
+    13700080: SkeletonWarriorArmor_BeltPart_LOD0
+    13700082: SkeletonWarriorArmor_BeltPart_LOD1
+    13700084: SkeletonWarriorArmor_BeltPart_LOD2
+    13700086: SkeletonWarriorArmor_BeltPart_LOD3
+    13700088: SkeletonWarriorArmor_BootLPart_LOD0
+    13700090: SkeletonWarriorArmor_BootLPart_LOD1
+    13700092: SkeletonWarriorArmor_BootLPart_LOD2
+    13700094: SkeletonWarriorArmor_BootLPart_LOD3
+    13700096: SkeletonWarriorArmor_BootRPart_LOD0
+    13700098: SkeletonWarriorArmor_BootRPart_LOD1
+    13700100: SkeletonWarriorArmor_BootRPart_LOD2
+    13700102: SkeletonWarriorArmor_BootRPart_LOD3
+    13700104: SkeletonWarriorArmor_GloveLPart_LOD0
+    13700106: SkeletonWarriorArmor_GloveLPart_LOD1
+    13700108: SkeletonWarriorArmor_GloveLPart_LOD2
+    13700110: SkeletonWarriorArmor_GloveLPart_LOD3
+    13700112: SkeletonWarriorArmor_GloveRPart_LOD0
+    13700114: SkeletonWarriorArmor_GloveRPart_LOD1
+    13700116: SkeletonWarriorArmor_GloveRPart_LOD2
+    13700118: SkeletonWarriorArmor_GloveRPart_LOD3
+    13700120: SkeletonWarriorArmor_PantsPart_LOD0
+    13700122: SkeletonWarriorArmor_PantsPart_LOD1
+    13700124: SkeletonWarriorArmor_PantsPart_LOD2
+    13700126: SkeletonWarriorArmor_PantsPart_LOD3
+    20500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Thigh_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Calf_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Foot_R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Toe_R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine01
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine02
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Chest
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clavicle_R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UpperArm_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forearm_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hand_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clavicle_L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UpperArm_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forearm_L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hand_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Thigh_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Calf_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Foot_L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Toe_L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger1_1_L
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger1_2_L
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger1_3_L
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger2_1_L
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger2_2_L
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger2_3_L
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger3_1_L
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger3_2_L
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger3_3_L
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger4_1_L
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger4_2_L
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger4_3_L
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger5_1_L
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger5_2_L
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger5_3_L
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger1_1_R
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger1_2_R
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger1_3_R
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger2_1_R
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger2_2_R
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger2_3_R
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger3_1_R
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger3_2_R
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger3_3_R
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger4_1_R
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger4_2_R
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger4_3_R
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger5_1_R
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger5_2_R
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger5_3_R
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: SkeletonWarrior_LOD(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SkeletonRig
+      parentName: SkeletonWarrior_LOD(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Root
+      parentName: SkeletonRig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0.000000029802322, z: 0.7056521, w: 0.70855844}
+      scale: {x: 0.99999946, y: 1.0000015, z: 0.99999905}
+    - name: Pelvis
+      parentName: Root
+      position: {x: 0.012306356, y: 0.000050580606, z: 0.9403084}
+      rotation: {x: 1.840519e-10, y: -1.849081e-10, z: 0.0087540755, w: 0.9999617}
+      scale: {x: 1.0000029, y: 1.0000029, z: 1.0000029}
+    - name: Spine01
+      parentName: Pelvis
+      position: {x: -4.8740526e-14, y: -3.6376522e-12, z: 0.118337214}
+      rotation: {x: -0.000110523644, y: -0.008863299, z: -0.0066474252, w: 0.99993867}
+      scale: {x: 1.0000037, y: 1.0000043, z: 1.0000048}
+    - name: Spine02
+      parentName: Spine01
+      position: {x: -0.0000000017279647, y: -1.4551915e-11, z: 0.10130656}
+      rotation: {x: 0.000080749414, y: 0.14448813, z: -0.00006746544, w: 0.98950654}
+      scale: {x: 1.0000008, y: 1.0000004, z: 1.0000018}
+    - name: Chest
+      parentName: Spine02
+      position: {x: 0.000000010940987, y: -9.094947e-13, z: 0.08390672}
+      rotation: {x: -0.0000115075745, y: -0.18187869, z: 0.000016341452, w: 0.983321}
+      scale: {x: 1.0000091, y: 1.0000087, z: 1.0000062}
+    - name: Neck
+      parentName: Chest
+      position: {x: -0.020557828, y: 0.00000022387115, z: 0.29950693}
+      rotation: {x: 0.000006821921, y: 0.12773518, z: -0.000004760715, w: 0.9918083}
+      scale: {x: 1.0000018, y: 0.9999956, z: 1}
+    - name: Head
+      parentName: Neck
+      position: {x: 0.009622211, y: 0.00000030770556, z: 0.0993254}
+      rotation: {x: 0.00001763694, y: 0.08123058, z: -0.000012493384, w: -0.9966954}
+      scale: {x: 0.99999577, y: 0.99999857, z: 0.99999744}
+    - name: Jaw
+      parentName: Head
+      position: {x: -0.02289497, y: 0.0000024625958, z: 0.021728992}
+      rotation: {x: 0.000071706345, y: 0.70710677, z: -0.00009071696, w: -0.7071069}
+      scale: {x: 1.000005, y: 1.0000033, z: 1.0000015}
+    - name: Clavicle_L
+      parentName: Chest
+      position: {x: -0.07105833, y: 0.025643937, z: 0.23576829}
+      rotation: {x: 0.48769563, y: -0.5487898, z: -0.48867416, w: -0.4713602}
+      scale: {x: 1.0000057, y: 1.000006, z: 1.0000079}
+    - name: UpperArm_L
+      parentName: Clavicle_L
+      position: {x: -0.000049918737, y: -0.04681915, z: 0.16915482}
+      rotation: {x: -0.033663135, y: -0.00027513443, z: 0.67909825, w: 0.73327506}
+      scale: {x: 1.0000058, y: 0.99999857, z: 1.0000043}
+    - name: Forearm_L
+      parentName: UpperArm_L
+      position: {x: -4.656613e-10, y: 0.000000012369128, z: 0.29367617}
+      rotation: {x: 0.034765463, y: 0.005726762, z: 0.9990111, w: -0.027118567}
+      scale: {x: 1.0000013, y: 1.0000014, z: 1.0000001}
+    - name: Radius_L
+      parentName: Forearm_L
+      position: {x: -0.0038951794, y: -0.011480292, z: 0.013515203}
+      rotation: {x: -0.045315944, y: -0.025260013, z: -0.9969425, w: 0.058430806}
+      scale: {x: 1.0000113, y: 1.0000051, z: 1.0000045}
+    - name: Hand_L
+      parentName: Forearm_L
+      position: {x: -0.000000042375177, y: 0.000000005355105, z: 0.28835094}
+      rotation: {x: 0.16426207, y: -0.1020283, z: 0.6967815, w: -0.690727}
+      scale: {x: 1.0000077, y: 1.0000037, z: 1.0000073}
+    - name: Finger2_1_L
+      parentName: Hand_L
+      position: {x: -0.008568606, y: -0.033256557, z: 0.10222922}
+      rotation: {x: -0.08065405, y: 0.07565708, z: 0.090407364, w: -0.98974615}
+      scale: {x: 1.0000106, y: 1.0000015, z: 1.000007}
+    - name: Finger2_2_L
+      parentName: Finger2_1_L
+      position: {x: -0.000000019557774, y: 0.000000004656613, z: 0.03926174}
+      rotation: {x: 0.014094549, y: 0.036591984, z: 0.015735166, w: -0.99910706}
+      scale: {x: 1.0000004, y: 1.0000015, z: 1.0000012}
+    - name: Finger2_3_L
+      parentName: Finger2_2_L
+      position: {x: 0.000000035390258, y: 0.0000000037252903, z: 0.028490357}
+      rotation: {x: 0.010302846, y: -0.11514364, z: -0.060370058, w: 0.9914592}
+      scale: {x: 1.0000068, y: 1.0000029, z: 1.0000025}
+    - name: Finger3_1_L
+      parentName: Hand_L
+      position: {x: -0.0007561117, y: -0.010448422, z: 0.10416628}
+      rotation: {x: 0.03926385, y: -0.08755397, z: -0.0077542164, w: 0.99535555}
+      scale: {x: 1.0000135, y: 1.0000061, z: 1.0000091}
+    - name: Finger3_2_L
+      parentName: Finger3_1_L
+      position: {x: -0.000000015366822, y: 0.000000007450581, z: 0.039795823}
+      rotation: {x: -0.019046543, y: -0.03418981, z: 0.008527587, w: 0.99919754}
+      scale: {x: 1.0000048, y: 1.0000032, z: 1.0000054}
+    - name: Finger3_3_L
+      parentName: Finger3_2_L
+      position: {x: 0.000000020721927, y: 0.0000000037252903, z: 0.028165048}
+      rotation: {x: 0.006889429, y: -0.10362943, z: 0.012380635, w: 0.9945151}
+      scale: {x: 1.0000186, y: 1.0000075, z: 1.000007}
+    - name: Finger4_1_L
+      parentName: Hand_L
+      position: {x: 0.002381082, y: 0.010122091, z: 0.1018574}
+      rotation: {x: 0.016626569, y: -0.079458974, z: 0.051500514, w: 0.995368}
+      scale: {x: 1.0000066, y: 1.0000035, z: 1.0000083}
+    - name: Finger4_2_L
+      parentName: Finger4_1_L
+      position: {x: -0.00000007497147, y: 0.0000000023283064, z: 0.03734674}
+      rotation: {x: -0.006438, y: -0.038331665, z: -0.00017391493, w: 0.9992444}
+      scale: {x: 1.0000051, y: 1.0000023, z: 1.000005}
+    - name: Finger4_3_L
+      parentName: Finger4_2_L
+      position: {x: -0.000000026542693, y: 0.0000000037252903, z: 0.02679531}
+      rotation: {x: -0.0004780356, y: -0.12552659, z: -0.003331391, w: 0.99208456}
+      scale: {x: 1.0000111, y: 1.0000046, z: 1.0000052}
+    - name: Finger5_1_L
+      parentName: Hand_L
+      position: {x: -0.004219576, y: 0.02749346, z: 0.0945798}
+      rotation: {x: -0.0005025042, y: -0.070754744, z: 0.09009069, w: 0.9934169}
+      scale: {x: 1.0000105, y: 1.0000075, z: 1.0000118}
+    - name: Finger5_2_L
+      parentName: Finger5_1_L
+      position: {x: 0.000000024680048, y: 0.00000001071021, z: 0.03330608}
+      rotation: {x: 0.005612892, y: -0.038505286, z: 0.04873055, w: 0.9980537}
+      scale: {x: 1.000003, y: 1.000001, z: 1.000005}
+    - name: Finger5_3_L
+      parentName: Finger5_2_L
+      position: {x: -0.000000027241185, y: -0.000000024680048, z: 0.024269566}
+      rotation: {x: -0.029440954, y: -0.13602465, z: 0.0369423, w: 0.98957866}
+      scale: {x: 1.000011, y: 1.0000021, z: 1.0000043}
+    - name: Finger1_1_L
+      parentName: Hand_L
+      position: {x: -0.020096945, y: -0.031020515, z: 0.026709137}
+      rotation: {x: -0.34764653, y: -0.17682472, z: 0.51380074, w: -0.7641229}
+      scale: {x: 1.0000074, y: 1.0000025, z: 1.0000072}
+    - name: Finger1_2_L
+      parentName: Finger1_1_L
+      position: {x: 0.000000014901161, y: -0.000000048428774, z: 0.04594472}
+      rotation: {x: 0.0005988773, y: -0.039702363, z: 0.027630178, w: 0.99882936}
+      scale: {x: 1.000004, y: 1.0000054, z: 1.0000043}
+    - name: Finger1_3_L
+      parentName: Finger1_2_L
+      position: {x: -9.313226e-10, y: -0.000000040978193, z: 0.02313905}
+      rotation: {x: -0.034763392, y: -0.14527954, z: -0.011703282, w: 0.98871046}
+      scale: {x: 1.0000068, y: 1.0000043, z: 1.0000044}
+    - name: Scapula_L
+      parentName: Clavicle_L
+      position: {x: -0.000049918737, y: -0.04681915, z: 0.16915482}
+      rotation: {x: -0.91387486, y: 0.029466264, z: -0.15174639, w: -0.37541634}
+      scale: {x: 1.000002, y: 0.9999998, z: 0.99999887}
+    - name: ScapulaTarget_L
+      parentName: Chest
+      position: {x: 0.08343988, y: 0.0617788, z: 0.17977324}
+      rotation: {x: 0.3849356, y: 0.6787673, z: -0.29117632, w: 0.5534581}
+      scale: {x: 1.0000004, y: 0.999998, z: 1.0000018}
+    - name: Clavicle_R
+      parentName: Chest
+      position: {x: -0.07105734, y: -0.025650047, z: 0.23576921}
+      rotation: {x: 0.48767653, y: 0.5487902, z: -0.48867494, w: 0.4713785}
+      scale: {x: 1.0000027, y: 1.0000021, z: 1.0000048}
+    - name: UpperArm_R
+      parentName: Clavicle_R
+      position: {x: -0.000049790964, y: 0.046819143, z: 0.16915476}
+      rotation: {x: -0.033663474, y: 0.00027554343, z: 0.6790978, w: -0.7332755}
+      scale: {x: 0.9999999, y: 0.99999845, z: 0.9999984}
+    - name: Forearm_R
+      parentName: UpperArm_R
+      position: {x: -0.0000000055879354, y: 0.00000008579809, z: 0.29367608}
+      rotation: {x: -0.034765635, y: 0.0057271663, z: -0.99901116, w: -0.027118504}
+      scale: {x: 1.000004, y: 1.0000032, z: 1.0000037}
+    - name: Radius_R
+      parentName: Forearm_R
+      position: {x: -0.0038951728, y: 0.01148056, z: 0.013515058}
+      rotation: {x: 0.045315843, y: -0.02526022, z: 0.9969424, w: 0.05843122}
+      scale: {x: 1.0000019, y: 1.0000025, z: 1.0000039}
+    - name: Hand_R
+      parentName: Forearm_R
+      position: {x: -0.000000022351742, y: 0.000000023748726, z: 0.28835085}
+      rotation: {x: 0.16426127, y: 0.10202846, z: 0.69678205, w: 0.6907266}
+      scale: {x: 0.9999993, y: 0.99999756, z: 1.0000044}
+    - name: Finger3_1_R
+      parentName: Hand_R
+      position: {x: -0.0007560507, y: 0.010448419, z: 0.10416639}
+      rotation: {x: -0.03926343, y: -0.08755468, z: 0.0077538933, w: 0.9953554}
+      scale: {x: 0.99999946, y: 1.0000057, z: 1.0000042}
+    - name: Finger3_2_R
+      parentName: Finger3_1_R
+      position: {x: 0.0000000088475645, y: 0, z: 0.0397959}
+      rotation: {x: 0.019045467, y: -0.034188606, z: -0.008527526, w: 0.99919754}
+      scale: {x: 1.0000002, y: 1.0000032, z: 1.0000036}
+    - name: Finger3_3_R
+      parentName: Finger3_2_R
+      position: {x: 0.000000007683411, y: 0.000000009313226, z: 0.028165035}
+      rotation: {x: -0.0068895435, y: -0.103629, z: -0.012380362, w: 0.9945151}
+      scale: {x: 1, y: 1.0000073, z: 1.0000083}
+    - name: Finger4_1_R
+      parentName: Hand_R
+      position: {x: 0.0023810747, y: -0.010122091, z: 0.10185756}
+      rotation: {x: -0.016626561, y: -0.07946096, z: -0.05150057, w: 0.9953679}
+      scale: {x: 0.9999981, y: 1.0000064, z: 1.0000067}
+    - name: Finger4_2_R
+      parentName: Finger4_1_R
+      position: {x: 0.000000049942173, y: 0.000000007450581, z: 0.03734672}
+      rotation: {x: 0.0064384327, y: -0.0383299, z: 0.00017392208, w: 0.99924445}
+      scale: {x: 0.99999934, y: 1.0000124, z: 1.0000131}
+    - name: Finger4_3_R
+      parentName: Finger4_2_R
+      position: {x: -0.000000028871, y: 0.00000002142042, z: 0.026795384}
+      rotation: {x: 0.0004782675, y: -0.12552725, z: 0.0033314251, w: 0.9920845}
+      scale: {x: 0.99999774, y: 1.000011, z: 1.0000147}
+    - name: Finger5_1_R
+      parentName: Hand_R
+      position: {x: -0.004219572, y: -0.027493455, z: 0.09457986}
+      rotation: {x: 0.0005001871, y: -0.0707503, z: -0.09009169, w: 0.99341714}
+      scale: {x: 0.99999744, y: 1.0000032, z: 1.0000007}
+    - name: Finger5_2_R
+      parentName: Finger5_1_R
+      position: {x: -0.0000000022773747, y: -0.000000017753337, z: 0.033306174}
+      rotation: {x: -0.005612344, y: -0.03851566, z: -0.04873045, w: 0.9980534}
+      scale: {x: 1.0000005, y: 1.0000073, z: 1.0000088}
+    - name: Finger5_3_R
+      parentName: Finger5_2_R
+      position: {x: -0.000000040221494, y: -0.000000017229468, z: 0.02426957}
+      rotation: {x: 0.029441617, y: -0.13602568, z: -0.03694251, w: 0.9895784}
+      scale: {x: 0.9999987, y: 1.0000007, z: 1.0000035}
+    - name: Finger1_1_R
+      parentName: Hand_R
+      position: {x: -0.020096786, y: 0.031020563, z: 0.026709277}
+      rotation: {x: -0.34764853, y: 0.17682472, z: 0.5138012, w: 0.7641217}
+      scale: {x: 1.0000073, y: 1.0000005, z: 1.0000058}
+    - name: Finger1_2_R
+      parentName: Finger1_1_R
+      position: {x: -0.000000014901161, y: 0.000000011175871, z: 0.04594466}
+      rotation: {x: -0.0005944667, y: -0.039701678, z: -0.027630756, w: 0.99882936}
+      scale: {x: 0.99999875, y: 1.0000005, z: 1}
+    - name: Finger1_3_R
+      parentName: Finger1_2_R
+      position: {x: -0.000000014901161, y: 0.000000020489097, z: 0.023139019}
+      rotation: {x: 0.03476333, y: -0.14527953, z: 0.011703299, w: 0.98871046}
+      scale: {x: 1.000009, y: 1.0000025, z: 1.0000005}
+    - name: Finger2_1_R
+      parentName: Hand_R
+      position: {x: -0.008568549, y: 0.033256557, z: 0.10222934}
+      rotation: {x: -0.080654636, y: -0.0756584, z: 0.09040727, w: 0.989746}
+      scale: {x: 0.9999988, y: 1.0000076, z: 1.0000086}
+    - name: Finger2_2_R
+      parentName: Finger2_1_R
+      position: {x: -0.000000022351742, y: 0, z: 0.03926178}
+      rotation: {x: 0.014096457, y: -0.03659077, z: 0.015735151, w: 0.999107}
+      scale: {x: 0.99999887, y: 1.0000012, z: 1.0000043}
+    - name: Finger2_3_R
+      parentName: Finger2_2_R
+      position: {x: -0.000000016763806, y: 0, z: 0.028490284}
+      rotation: {x: -0.010302844, y: -0.1151437, z: 0.06036992, w: 0.99145913}
+      scale: {x: 0.99999815, y: 1.0000001, z: 1.0000058}
+    - name: Scapula_R
+      parentName: Clavicle_R
+      position: {x: -0.00004979285, y: 0.046819165, z: 0.1691548}
+      rotation: {x: 0.9138749, y: 0.029466094, z: 0.15174626, w: -0.3754164}
+      scale: {x: 1.0000012, y: 0.99999964, z: 1.000001}
+    - name: ScapulaTarget_R
+      parentName: Chest
+      position: {x: 0.08344232, y: -0.061780818, z: 0.17977546}
+      rotation: {x: 0.38495898, y: -0.67876506, z: -0.2911751, w: -0.55344534}
+      scale: {x: 1.0000018, y: 1.0000017, z: 1.0000058}
+    - name: Thigh_L
+      parentName: Pelvis
+      position: {x: 0.011697587, y: 0.097986296, z: 0}
+      rotation: {x: -0.030508166, y: -0.9992505, z: 0.023824241, w: 0.00037639175}
+      scale: {x: 1.0000083, y: 1.0000006, z: 1.0000068}
+    - name: Calf_L
+      parentName: Thigh_L
+      position: {x: 0.0000000031141099, y: 0.0000000041909516, z: 0.42920893}
+      rotation: {x: -0.008025541, y: 0.0015020071, z: -0.008097421, w: 0.9999339}
+      scale: {x: 0.9999992, y: 0.9999999, z: 1.0000004}
+    - name: Foot_L
+      parentName: Calf_L
+      position: {x: -0.0000000041909516, y: -0.000000007450581, z: 0.4189229}
+      rotation: {x: -0.09198871, y: 0.5122491, z: 0.09471518, w: 0.8486271}
+      scale: {x: 0.9999992, y: 1.0000001, z: 0.99999785}
+    - name: Toe_L
+      parentName: Foot_L
+      position: {x: -0.000000004656613, y: 0.0000000040745363, z: 0.15557085}
+      rotation: {x: 0.019618714, y: 0.17890806, z: 0.115690954, w: 0.9768432}
+      scale: {x: 1.000003, y: 1.0000035, z: 0.9999983}
+    - name: Patella_L
+      parentName: Thigh_L
+      position: {x: -0.0000086045475, y: -0.00058449386, z: 0.41695327}
+      rotation: {x: -0.02382, y: -0.00021680775, z: -0.023806477, w: 0.9994328}
+      scale: {x: 1.0000001, y: 0.999997, z: 1.0000007}
+    - name: Thigh_R
+      parentName: Pelvis
+      position: {x: 0.009068025, y: -0.09826453, z: 0}
+      rotation: {x: 0.017131524, y: -0.9995693, z: -0.02382746, w: 0.00005684572}
+      scale: {x: 1.0000061, y: 0.99999505, z: 1.0000074}
+    - name: Calf_R
+      parentName: Thigh_R
+      position: {x: 2.910383e-10, y: -0.0000000023283064, z: 0.42920858}
+      rotation: {x: 0.008024716, y: 0.001502121, z: 0.0081000095, w: 0.9999339}
+      scale: {x: 0.9999998, y: 1.0000007, z: 1.0000005}
+    - name: Foot_R
+      parentName: Calf_R
+      position: {x: -0.0000000015716068, y: 0.0000000011641532, z: 0.41892314}
+      rotation: {x: 0.09199353, y: 0.5122485, z: -0.09468939, w: 0.8486298}
+      scale: {x: 1.0000027, y: 1.0000033, z: 1.0000007}
+    - name: Toe_R
+      parentName: Foot_R
+      position: {x: 0.000000007450581, y: -0.00000000547152, z: 0.15557094}
+      rotation: {x: -0.019617818, y: 0.17890832, z: -0.11572298, w: 0.97683936}
+      scale: {x: 0.99999774, y: 1.0000044, z: 1.0000031}
+    - name: Patella_R
+      parentName: Thigh_R
+      position: {x: -0.0000086261425, y: 0.00058450305, z: 0.4169532}
+      rotation: {x: 0.02234925, y: -0.00025153844, z: 0.023819935, w: 0.9994664}
+      scale: {x: 1.0000004, y: 1.0000023, z: 0.9999997}
+    - name: SkeletonWarrior_LOD0
+      parentName: SkeletonWarrior_LOD(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SkeletonWarrior_LOD1
+      parentName: SkeletonWarrior_LOD(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SkeletonWarrior_LOD2
+      parentName: SkeletonWarrior_LOD(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SkeletonWarrior_LOD3
+      parentName: SkeletonWarrior_LOD(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SkeletonWarriorArmor_LOD0
+      parentName: SkeletonWarrior_LOD(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SkeletonWarriorArmor_LOD1
+      parentName: SkeletonWarrior_LOD(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SkeletonWarriorArmor_LOD2
+      parentName: SkeletonWarrior_LOD(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SkeletonWarriorArmor_LOD3
+      parentName: SkeletonWarrior_LOD(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 1
+    foreArmTwist: 1
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 038a66e7bb88e2b479b24b824587c169,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

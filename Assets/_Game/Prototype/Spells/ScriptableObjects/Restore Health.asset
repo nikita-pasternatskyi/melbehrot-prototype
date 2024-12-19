@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 733bdd590fa223a4082846ef95f533c6, type: 3}
+  m_Name: Restore Health
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Recipe:
+  - {fileID: 11400000, guid: 4ad25f473e5761a4a925f4e337b86eca, type: 2}
+  - {fileID: 11400000, guid: 35b999afd920f324ab0bd8ddd4e1c273, type: 2}
+  - {fileID: 11400000, guid: 65b5f4b4a812af64ca5365c149e1d695, type: 2}
+  Preview: {fileID: 21300000, guid: 3a243952cd4c3ca4d81f2271deec5970, type: 3}
+  Description: Restores health using Mana
+  Cooldown: 4
+  CostType: 0
+  InstantCost: 4
+  DrainRate: 0
+  ReservationCost: 0
